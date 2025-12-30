@@ -27,5 +27,5 @@ Beginner-friendly electronics (no microcontroller)
 ### Side View
 ![Side View](ImageToStl.com_tinker%20(1).png)
 
-### Exploded View
+
 ![Exploded View](ImageToStl.com_tinker%20(3).png)
