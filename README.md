@@ -22,7 +22,7 @@ Beginner-friendly electronics (no microcontroller)
 ## 🖼️ Design Images
 
 ### Front View
-![Front View](images/front.png)
+![Front View](ImageToStl.com_tinker (2).png)
 
 ### Side View
 ![Side View](images/side.png)
