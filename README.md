@@ -10,7 +10,7 @@ This project focuses on simplicity, aesthetics, and real-world usability.
 
 | Item           | Description                              | Quantity | Unit Cost (USD) | Total Cost (USD) | Notes                           |
 | -------------- | ---------------------------------------- | -------- | --------------- | ---------------- | ------------------------------- |
-| Acrylic Sheet  | 3mm clear acrylic sheet (laser engraved) | 1        | 5.00            | 5.00             | Engraved text for nameplate     |
+| Acrylic Sheet  | 3mm clear acrylic sheet (laser engraved) | 1        | 8.90            | 8.90             | Engraved text for nameplate     |
 | LED Strip      | 5V white LED strip (30–50cm)  with AA cell            | 1        | 3.50            | 3.50             | Edge lighting                   |
 | Switch         | Mini on/off toggle switch                | 1        | 1.15            | 1.15             | Power control                   |
 | USB Cable      | USB-A to 5V power cable                  | 1        | 2.25            | 2.25             | Power source                    |
