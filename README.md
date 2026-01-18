@@ -19,7 +19,7 @@ This project focuses on simplicity, aesthetics, and real-world usability.
 | Base Enclosure | 3D printed PLA base                      | 1        | 6.50            | 6.50             | LED housing and structure       |
 | Fasteners      | Small screws , adhesive and color tapes                 | 1-1 set    | 1.5            | 1.5             | Assembly hardware               |
 | Miscellaneous  | Heat shrink , insulation tape            | 1-1 set    | 2.00            | 2.00             | Electrical safety               |
-| **TOTAL**      |                                          |          |                 | **25.90 USD**    | Within $25 budget               |
+| **TOTAL**      |                                          |          |                 | **24.05 USD**    | Within $25 budget               |
 
 # Features
 
