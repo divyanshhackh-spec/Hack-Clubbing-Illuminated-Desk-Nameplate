@@ -11,15 +11,14 @@ This project focuses on simplicity, aesthetics, and real-world usability.
 | Item           | Description                              | Quantity | Unit Cost (USD) | Total Cost (USD) | Notes                           |
 | -------------- | ---------------------------------------- | -------- | --------------- | ---------------- | ------------------------------- |
 | Acrylic Sheet  | 3mm clear acrylic sheet (laser engraved) | 1        | 8.90            | 8.90             | Engraved text for nameplate     |
-| LED Strip      | 5V white LED strip (30–50cm)  with AA cell            | 1        | 3.50            | 3.50             | Edge lighting                   |
-| Switch         | Mini on/off toggle switch                | 1        | 1.15            | 1.15             | Power control                   |
-| USB Cable      | USB-A to 5V power cable                  | 1        | 2.25            | 2.25             | Power source                    |
-| Resistor       | 220Ω resistor                            | 1        | 0.15            | 0.15             | Required if using discrete LEDs |
-| Wires          | Hook-up wires (assorted)                 | 2 set    | 2.00            | 2.00             | Internal connections            |
-| Base Enclosure | 3D printed PLA base                      | 1        | 6.50            | 6.50             | LED housing and structure       |
-| Fasteners      | Small screws , adhesive and color tapes                 | 1-1 set    | 1.5            | 1.5             | Assembly hardware               |
-| Miscellaneous  | Heat shrink , insulation tape            | 1-1 set    | 2.00            | 2.00             | Electrical safety               |
-| **TOTAL**      |                                          |          |                 | **24.05 USD**    | Within $25 budget               |
+| LED Strip      | 5V white LED strip (30–50cm)  with AA cell            | 1        | 3.74            | 3.74             | Edge lighting                   |
+| Switch         | Mini on/off toggle switch                | 1        | 3.30            | 3.30             | Power control                   |
+| USB Cable      | USB-A to 5V power cable                  | 1        | 2.63            | 2.63             | Power source                    |
+| Resistor       | 220Ω resistor                            | 1        | 1.33            | 1.33             | Required if using discrete LEDs |
+| Wires          | Hook-up wires (assorted)                 | 1 set    | 1.76            | 1.76             | Internal connections            |
+| Fasteners      | Small screws , adhesive and color tapes                 | 1 set    | 1.60            | 1.60            | Assembly hardware               |
+| Online Fee  | Fee by Flipkart            | 1    | 1.64            | 1.64             | Cart Fee               |
+| **TOTAL**      |                                          |          |                 | **24.9 USD**    | Within $25 budget               |
 
 # Features
 
