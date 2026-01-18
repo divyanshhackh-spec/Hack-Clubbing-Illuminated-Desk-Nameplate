@@ -12,12 +12,12 @@ This project focuses on simplicity, aesthetics, and real-world usability.
 | -------------- | ---------------------------------------- | -------- | --------------- | ---------------- | ------------------------------- |
 | Acrylic Sheet  | 3mm clear acrylic sheet (laser engraved) | 1        | 5.00            | 5.00             | Engraved text for nameplate     |
 | LED Strip      | 5V white LED strip (30–50cm)  with AA cell            | 1        | 3.50            | 3.50             | Edge lighting                   |
-| Switch         | Mini on/off toggle switch                | 1        | 1.75            | 1.75             | Power control                   |
+| Switch         | Mini on/off toggle switch                | 1        | 1.15            | 1.15             | Power control                   |
 | USB Cable      | USB-A to 5V power cable                  | 1        | 2.25            | 2.25             | Power source                    |
 | Resistor       | 220Ω resistor                            | 1        | 0.15            | 0.15             | Required if using discrete LEDs |
 | Wires          | Hook-up wires (assorted)                 | 2 set    | 2.00            | 2.00             | Internal connections            |
-| Base Enclosure | 3D printed PLA base                      | 1        | 7.50            | 7.50             | LED housing and structure       |
-| Fasteners      | Small screws , adhesive and color tapes                 | 1-1 set    | 1.75            | 1.75             | Assembly hardware               |
+| Base Enclosure | 3D printed PLA base                      | 1        | 6.50            | 6.50             | LED housing and structure       |
+| Fasteners      | Small screws , adhesive and color tapes                 | 1-1 set    | 1.5            | 1.5             | Assembly hardware               |
 | Miscellaneous  | Heat shrink , insulation tape            | 1-1 set    | 2.00            | 2.00             | Electrical safety               |
 | **TOTAL**      |                                          |          |                 | **25.90 USD**    | Within $25 budget               |
 
