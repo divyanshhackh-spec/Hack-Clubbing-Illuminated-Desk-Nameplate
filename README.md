@@ -32,6 +32,10 @@ Easy to manufacture and assemble
 
 Beginner-friendly electronics (no microcontroller)
 
+## Total Bill of Cart
+
+![Bill](Cart_Images/Price%20Details.png)
+
 ## 🖼️ Design Images
 
 ### Front View
