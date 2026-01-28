@@ -32,11 +32,15 @@ Easy to manufacture and assemble
 
 Beginner-friendly electronics (no microcontroller)
 
+## Wiring Diagram 
+![Wiring Diagram](Images/wiring.png)
+
 ## Total Bill of Cart
 
 ![Bill](Cart_Images/Price%20Details.png)
 
 ## 🖼️ Design Images
+
 
 ### Front View
 ![Front View](Images/ImageToStl.com_tinker%20(2).png)
