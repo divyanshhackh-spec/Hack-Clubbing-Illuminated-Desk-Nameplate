@@ -76,7 +76,7 @@ Easy to manufacture and assemble
 Beginner-friendly electronics (no microcontroller)
 
 ## Wiring Diagram 
-![Wiring Diagram](Images/wiring.png)
+![Wiring Diagram](Images/wire.png)
 
 ## Total Bill of Cart
 
